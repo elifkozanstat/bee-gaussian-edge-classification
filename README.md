@@ -1,4 +1,4 @@
-# bee-gaussian-edge-classification# Gaussian–Edge Feature Pipelines for Bee Genus Classification  
+# bee-gaussian-edge-classification
 **Public code and materials accompanying the manuscript**
 
 This repository provides the full implementation, preprocessing modules, and analysis utilities used to evaluate Gaussian-filtered grayscale images combined with classical edge operators (Sobel, Prewitt, Laplacian of Gaussian, Canny) for genus-level bee classification (Apis vs. Bombus).  
